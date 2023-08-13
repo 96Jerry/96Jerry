@@ -4,4 +4,4 @@ Welcome to my page!
 <br>
 I'm Jerry, backend developer from Korea. 
 <br>
-My skills: Typescript, Javascript, Nodejs, Nestjs, Mysql, Mongodb, Git, Vscode
+My skills: Nodejs, Typescript, Nestjs, Mysql, TypeORM, Mongodb, Git, Jira, Vscode, Notion
